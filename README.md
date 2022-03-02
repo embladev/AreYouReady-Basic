@@ -13,11 +13,17 @@ We are in the process of building a project managment software and as the initia
 * Technology to use
 - Basic HTML, Javascript/Typescript
 
+```sh
 > No js frameworks to be used in this project
-> CSS styling only frameworks can be used
+> No libraries should be used
+> Only pure HTML and JS 
+```
 
  * Output - html and js files
 
-# Solution step 4
+# Solution - step 4
 * Filter the project list. User type in the project name and the filtered projects will be listed
+
+# Solution - step 5
+Zip all the files and send it Embla HR. 
 
