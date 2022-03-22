@@ -5,8 +5,10 @@ Practical assessment for interns joining Embla
 We are in the process of building a project managment software and as the initial requirement we want the projects to be listed and filtered.
 
 # Solution - step 1
-* List down the step in developing a solution to the above requirement, in a file named "process.txt"
-* Output - process.txt
+* Analyse the above requirement and list down the acceptance criteria/test cases based on your assumptions
+* Identify the object that will be used in your solution and justify the reasons for selecting these ( Not objects in libraries or programming language libraries ). 
+* Create the class diagram
+* Please attach the diagrams and other related text in the reply email 
 
 # Solution - step 3
 * List the projects on a html page. The project list is in a JSON file in this repo. 
@@ -19,11 +21,11 @@ We are in the process of building a project managment software and as the initia
 > Only pure HTML and JS 
 ```
 
- * Output - html and js files
+* Output - html and js files
 
-# Solution - step 4
+# Solution - step 5
 * Filter the project list. User type in the project name and the filtered projects will be listed
 
 # Solution - step 5
-Zip all the files and send it Embla HR. 
+Zip all the files and send it Embla HR. Please add installation instruction if any. 
 
