@@ -11,7 +11,7 @@ We are in the process of building a project managment software and as the initia
 * Create the class diagram* 
 * Please attach the diagrams and other related text in the reply email 
 
-# Solution - step 3
+# Solution - step 2
 * List the projects on a html page. The project list is in a JSON file in this repo. 
 * Technology to use
 - Basic HTML, Javascript/Typescript
@@ -24,9 +24,9 @@ We are in the process of building a project managment software and as the initia
 
 * Output - html and js files
 
-# Solution - step 5
+# Solution - step 3
 * Filter the project list. User type in the project name and the filtered projects will be listed
 
-# Solution - step 5
+# Solution - step 4
 Zip all the files and send it Embla HR. Please add installation instruction if any. 
 
