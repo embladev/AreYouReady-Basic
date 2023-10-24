@@ -7,7 +7,7 @@ We are in the process of building a project managment software and as the initia
 2. Save a project
 3. Delete a project
 4. Dashboard displaying the top 3 project by its revenue
-5. Alert when a project is completed
+5. Alert when a project is completed ( At the start )
 
 1 Requirements garthering and analysing
 2. Object and sequence diagram
