@@ -1,7 +1,7 @@
 # AreYouReady
 Tech speed track for Embla interns
 
-# Problem
+# Problem statement (Initial)
 We are in the process of building a project managment software and as the initial requirement are listed below.
 1. Display the list of projects
 2. Save a project
