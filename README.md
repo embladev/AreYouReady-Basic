@@ -9,14 +9,15 @@ We are in the process of building a project managment software and as the initia
 4. Dashboard displaying the top 3 project by its revenue
 5. Alert when a project is completed ( At the start )
 
-1 Requirements garthering and analysing
+# Actions
+1. Requirements garthering and analysing
 2. Object and sequence diagram
 3. Class diagram
 3. Front-end only - JS app
 4. Front-end only - Angular/React/Vue
 5. Backend .NET, NodeJS
 
-Secondary requirements
+# Secondary requirements
 1. Search the project list
 2. Save the project with project plan (excel file)
 3. Delete a project gives a warning if the project is ongoing
