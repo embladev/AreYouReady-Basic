@@ -17,6 +17,10 @@ We are in the process of building a project managment software and as the initia
 4. Front-end only - Angular/React/Vue
 5. Backend .NET, NodeJS
 
+# Backend requirments
+1. Get the project list from the server
+2. Get the project list from database
+
 # Secondary requirements
 1. Search the project list
 2. Save the project with project plan (excel file)
